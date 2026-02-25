@@ -44,7 +44,10 @@ The main objective of this project is to explore sales data and build a dashboar
 ---
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshots here)
+<img src="FNP Sales Analysis & Business Insights Dashboard/Dashbord.png" alt="FNP Sales Dashboard" class="img">
+<style>
+  .img { width: 600px; height: auto; }
+</style>
 
 ---
 
